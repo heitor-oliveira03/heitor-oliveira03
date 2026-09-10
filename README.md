@@ -4,10 +4,18 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+my+name+is+Heitor+Albuquerque+de+Oliveira;I+am+fullstack+developer;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">
+  <h2>Heitor Oliveira</h2>
+  <p>
+    🐙 <a href="https://github.com/heitor-oliveira03">Contribuições no GitHub</a><br />
+    📚 <a href="https://github.com/heitor-oliveira03?tab=repositories">15 repositórios públicos</a><br />
+    🕒 No GitHub há 2 anos<br />
+    ✉️ <a href="mailto:albuquerquedeoliveiraheitor@gmail.com">albuquerquedeoliveiraheitor@gmail.com</a>
+  </p>
+
   <img
     width="100%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heitor-oliveira03&theme=github_dark&name=Heitor%20Oliveira"
-    alt="Heitor Oliveira's GitHub contribution graph"
+    src="https://github.pumbas.net/api/contributions/heitor-oliveira03?colour=40c463&amp;bgColour=0d1117&amp;dotColour=40c463&amp;days=365"
+    alt="Gráfico de contribuições de Heitor Oliveira no GitHub"
   />
 </div>
 
