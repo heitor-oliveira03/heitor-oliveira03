@@ -5,18 +5,12 @@
 
 <div align="center">
   <h2>Heitor Oliveira</h2>
-  <p>
-    🐙 <a href="https://github.com/heitor-oliveira03">Contribuições no GitHub</a><br />
-    📚 <a href="https://github.com/heitor-oliveira03?tab=repositories">15 repositórios públicos</a><br />
-    🕒 No GitHub há 2 anos<br />
-    ✉️ <a href="mailto:albuquerquedeoliveiraheitor@gmail.com">albuquerquedeoliveiraheitor@gmail.com</a>
-  </p>
+  <p>Desenvolvedor Full Stack focado em criar experiências digitais modernas, funcionais e bem construídas.</p>
 
-  <img
-    width="100%"
-    src="https://github.pumbas.net/api/contributions/heitor-oliveira03?colour=40c463&amp;bgColour=0d1117&amp;dotColour=40c463&amp;days=365"
-    alt="Gráfico de contribuições de Heitor Oliveira no GitHub"
-  />
+  <a href="https://github.com/heitor-oliveira03"><img src="https://img.shields.io/badge/GitHub-Perfil-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Perfil de Heitor no GitHub" /></a>
+  <a href="https://www.linkedin.com/in/heitoralbuoliveira/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Heitor" /></a>
+  <a href="mailto:albuquerquedeoliveiraheitor@gmail.com"><img src="https://img.shields.io/badge/Email-Contato-00BFBF?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail para Heitor" /></a>
+  <a href="https://www.instagram.com/hheittorr_10/"><img src="https://img.shields.io/badge/Instagram-Seguir-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram de Heitor" /></a>
 </div>
 
 <div align="center">
@@ -29,11 +23,6 @@
   <img width="49%" src="https://streak-stats.demolab.com?user=heitor-oliveira03&theme=github-dark-blue&hide_border=true&locale=pt_BR" alt="Heitor's GitHub contribution streak" />
 </div>
 
-<div align="center">  
-<a href="https://www.instagram.com/hheittorr_10/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://www.linkedin.com/in/heitoralbuoliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</div> 
- 
 ### Main skills:
 
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
