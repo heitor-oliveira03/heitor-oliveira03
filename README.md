@@ -4,7 +4,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+my+name+is+Heitor+Albuquerque+de+Oliveira;I+am+fullstack+developer;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heitor-oliveira03&theme=github_dark" alt="Heitor's GitHub contribution graph" />
+  <img
+    width="100%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heitor-oliveira03&theme=github_dark&name=Heitor%20Oliveira"
+    alt="Heitor Oliveira's GitHub contribution graph"
+  />
 </div>
 
 <div align="center">
