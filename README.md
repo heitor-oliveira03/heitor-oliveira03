@@ -4,23 +4,21 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+my+name+is+Heitor+Albuquerque+de+Oliveira;I+am+fullstack+developer;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">
-  <h2>Heitor Oliveira</h2>
-  <p>Desenvolvedor Full Stack focado em criar experiências digitais modernas, funcionais e bem construídas.</p>
+  <p>Desenvolvedor Full Stack focado em criar experiências e sistemas complexos, funcionais e bem construídas.</p>
 
-  <a href="https://github.com/heitor-oliveira03"><img src="https://img.shields.io/badge/GitHub-Perfil-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Perfil de Heitor no GitHub" /></a>
-  <a href="https://www.linkedin.com/in/heitoralbuoliveira/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Heitor" /></a>
-  <a href="mailto:albuquerquedeoliveiraheitor@gmail.com"><img src="https://img.shields.io/badge/Email-Contato-00BFBF?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail para Heitor" /></a>
-  <a href="https://www.instagram.com/hheittorr_10/"><img src="https://img.shields.io/badge/Instagram-Seguir-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram de Heitor" /></a>
+  <a href="https://www.linkedin.com/in/heitoralbuoliveira/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Heitor" /></a>&nbsp;
+  <a href="mailto:albuquerquedeoliveiraheitor@gmail.com"><img src="https://img.shields.io/badge/E--mail-00BFBF?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail para Heitor" /></a>&nbsp;
+  <a href="https://www.instagram.com/hheittorr_10/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram de Heitor" /></a>
+</div>
+
+<!-- SVGs gerados pelo workflow .github/workflows/metrics.yml (lowlighter/metrics) -->
+<div align="center">
+  <img width="100%" src="assets/metrics-calendar.svg" alt="Calendário isométrico de contribuições de Heitor no último ano" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=heitor-oliveira03&theme=github_dark" alt="Heitor's GitHub statistics" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heitor-oliveira03&theme=github_dark" alt="Heitor's most used languages" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=heitor-oliveira03&theme=github_dark&utcOffset=-3" alt="Heitor's productive hours" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=heitor-oliveira03&theme=github-dark-blue&hide_border=true&locale=pt_BR" alt="Heitor's GitHub contribution streak" />
+  <img width="49%" align="top" src="assets/metrics-languages.svg" alt="Linguagens mais usadas por Heitor" />
+  <img width="49%" align="top" src="https://streak-stats.demolab.com?user=heitor-oliveira03&locale=pt_BR&hide_border=true&background=0D1117&ring=00BFBF&fire=00BFBF&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=00BFBF&sideLabels=8B949E&dates=8B949E&stroke=30363D" alt="Sequência de contribuições de Heitor no GitHub" />
 </div>
 
 ### Main skills:
